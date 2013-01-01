@@ -1,0 +1,11 @@
+name: olySpawn
+main: com.olympuspvp.spawn.olySpawn
+version: 1.1
+author: CalDaBeast
+description: Spawn and spawn protection
+
+commands:
+    setspawn:
+        description: sets the spawn
+    spawn:
+        description: teleports to the spawn point
